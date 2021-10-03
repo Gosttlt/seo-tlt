@@ -1,0 +1,5 @@
+export const SET_USER = 'usersReducer/SET_USER'
+export const SET_USERS = 'usersReducer/SET_USERS'
+export const SET_LOADINGFLAG = 'usersReducer/SET_LOADINGFLAG'
+export const SET_LOADINGFLAGMODAL = 'usersReducer/SET_LOADINGFLAGMODAL'
+export const SWITCH_PAGE = 'usersReducer/SWITCH_PAGE'
